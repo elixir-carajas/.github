@@ -16,7 +16,7 @@ Inicialmente estamos converando sobre os seguintes tópicos:
 - Computação distribuída
 - OTP
 - Árvore de Supervisão
-- Phoneix
+- Phoenix Framework
 
 Nos próximos encontros iremos nos aprofundar em cada um desses tópicos e abordar outros assuntos relacionados a Elixir e Erlang.
 
