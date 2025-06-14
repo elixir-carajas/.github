@@ -10,7 +10,7 @@ Estamos conversando com os participantes do primeiro encontro para definir a dat
 
 ## Tópicos abordados
 
-Inicialmente estamos converando sobre os seguintes tópicos:
+Inicialmente estamos conversando sobre os seguintes tópicos:
 - Concorrência
 - Paralelismo
 - Computação distribuída
@@ -23,3 +23,7 @@ Nos próximos encontros iremos nos aprofundar em cada um desses tópicos e abord
 ## Como participar
 
 Acompane esse repositório e aos avisos em nossas redes sociais.
+
+- [Guild](https://guild.host/elixircarajas/events), onde gerenciamos a agenda dos eventos
+- [Bsky](https://bsky.app/profile/elixircarajas.bsky.social)
+- [Instagram](https://www.instagram.com/elixircarajas)
